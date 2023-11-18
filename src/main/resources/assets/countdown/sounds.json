@@ -1,0 +1,22 @@
+{
+  "hour_passed": {
+	"category": "record",
+    "subtitle": "countdown.subtitle.hour_passed",
+    "sounds": [ "countdown:hour_passed" ]
+  },
+  "last_thirty": {
+	"category": "record",
+    "subtitle": "countdown.subtitle.last_thirty",
+    "sounds": [ "countdown:last_thirty" ]
+  },
+  "last_ten": {
+	"category": "record",
+    "subtitle": "countdown.subtitle.last_ten",
+    "sounds": [ "countdown:last_ten" ]
+  },
+  "zeroes": {
+	"category": "record",
+    "subtitle": "countdown.subtitle.zeroes",
+    "sounds": [ "countdown:zeroes" ]
+  }  
+}
